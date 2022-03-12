@@ -1,7 +1,16 @@
-@software{RLD,
-  author = {Shaikh, Sufyan, Murty, B.S., Yadav, Satyesh Kumar},
-  month = {03},
-  title = {{Root-mean-squared lattice distortion}},
-  url = {https://github.com/sufyanshk/RLD},
-  year = {2022}
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shaikh"
+  given-names: "Sufyan M."
+  orcid: "https://orcid.org/0000-0002-5576-7554"
+- family-names: "Murty"
+  given-names: "B.S."
+  orcid: "https://orcid.org/0000-0002-4399-8531"
+- family-names: "Yadav"
+  given-names: "Satyesh Kumar"
+  orcid: "https://orcid.org/0000-0002-6308-6070"
+title: "RLD"
+version: 1.0.0
+date-released: 2022-03-12
+url: "https://github.com/sufyanshk/RLD"
