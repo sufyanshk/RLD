@@ -1,6 +1,6 @@
 # RLD
 Code to calculate root-mean-squared lattice distortion (RLD).  
-The RLD code generates `all8NearestNeighbours.txt` file which will contain all the `first nearest neighbors` of every atom.
+The RLD code generates `all8NearestNeighbours.txt` file which will contain all the `first nearest neighbors` of every atom in supercell.
 
 ## Steps
 1. Install [pymatgen](https://pymatgen.org) and [vasputil](https://github.com/jabl/vasputil)
